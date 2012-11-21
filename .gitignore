@@ -1,0 +1,9 @@
+bin-debug/
+bin-release/
+html-template/
+.settings/
+.actionScriptProperties
+.project
+.FlexUnitSettings/
+.idea/
+FlexUnitApplication.as
